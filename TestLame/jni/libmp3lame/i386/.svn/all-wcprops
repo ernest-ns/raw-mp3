@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/jni/libmp3lame/i386
+END
+fft.nas
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/jni/libmp3lame/i386/fft.nas
+END
+ffttbl.nas
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/jni/libmp3lame/i386/ffttbl.nas
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/jni/libmp3lame/i386/Makefile.in
+END
+nasm.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/jni/libmp3lame/i386/nasm.h
+END
+fft3dn.nas
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/jni/libmp3lame/i386/fft3dn.nas
+END
+scalar.nas
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/jni/libmp3lame/i386/scalar.nas
+END
+cpu_feat.nas
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/jni/libmp3lame/i386/cpu_feat.nas
+END
+choose_table.nas
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/jni/libmp3lame/i386/choose_table.nas
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/jni/libmp3lame/i386/Makefile.am
+END
+fftsse.nas
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/jni/libmp3lame/i386/fftsse.nas
+END
+fftfpu.nas
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/jni/libmp3lame/i386/fftfpu.nas
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/jni/libmp3lame/i386/.cvsignore
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/jni/libmp3lame/i386/Makefile
+END

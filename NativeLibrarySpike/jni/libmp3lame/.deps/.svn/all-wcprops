@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/jni/libmp3lame/.deps
+END
+quantize_pvt.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/jni/libmp3lame/.deps/quantize_pvt.Plo
+END
+mpglib_interface.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/jni/libmp3lame/.deps/mpglib_interface.Plo
+END
+bitstream.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/jni/libmp3lame/.deps/bitstream.Plo
+END
+set_get.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/jni/libmp3lame/.deps/set_get.Plo
+END
+psymodel.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/jni/libmp3lame/.deps/psymodel.Plo
+END
+quantize.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/jni/libmp3lame/.deps/quantize.Plo
+END
+newmdct.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/jni/libmp3lame/.deps/newmdct.Plo
+END
+takehiro.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/jni/libmp3lame/.deps/takehiro.Plo
+END
+vbrquantize.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/jni/libmp3lame/.deps/vbrquantize.Plo
+END
+tables.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/jni/libmp3lame/.deps/tables.Plo
+END
+id3tag.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/jni/libmp3lame/.deps/id3tag.Plo
+END
+util.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/jni/libmp3lame/.deps/util.Plo
+END
+lame.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/jni/libmp3lame/.deps/lame.Plo
+END
+encoder.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/jni/libmp3lame/.deps/encoder.Plo
+END
+fft.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/jni/libmp3lame/.deps/fft.Plo
+END
+reservoir.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/jni/libmp3lame/.deps/reservoir.Plo
+END
+gain_analysis.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/jni/libmp3lame/.deps/gain_analysis.Plo
+END
+VbrTag.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/jni/libmp3lame/.deps/VbrTag.Plo
+END
+presets.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/jni/libmp3lame/.deps/presets.Plo
+END
+version.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/jni/libmp3lame/.deps/version.Plo
+END
